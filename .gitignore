@@ -1,0 +1,15 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+/media
+/static
+
+.env
+**/migrations/*
+node_modules/
+build/
+npm-debug.log
+venv/
+.venv/
